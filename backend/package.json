@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "srv": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "i": "^0.3.7",
+    "mongoose": "^6.0.8",
+    "nodemon": "^2.0.13",
+    "npm": "^7.24.1"
+  }
+}
